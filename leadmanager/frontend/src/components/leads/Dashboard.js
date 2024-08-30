@@ -3,11 +3,11 @@ import Form from './Form';
 import Leads from './Leads';
 
 
-export default function Dashboard(){
-    return(
-    <Fragment>
-        <Form/>
-        <Leads/>
-    </Fragment>
+export default function Dashboard() {
+    return (
+        <Fragment>
+            <Form />
+            <Leads />
+        </Fragment>
     )
 };
